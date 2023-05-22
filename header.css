@@ -134,7 +134,7 @@
     }
 
     .lista-menu_item:hover {
-        background-color: var(--azul-degrade);
+        background: var(--azul-degrade);
     }
 
     .lista-menu_item:hover > .lista-menu_link {
